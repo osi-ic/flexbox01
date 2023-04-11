@@ -1,4 +1,4 @@
-# flexbox01
+# flexbox
 https://developer.mozilla.org/en-US/docs/Glossary/Flex
 
 GW lagi coba2 flexbox biar gak lupa
